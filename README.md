@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/o6m.gif"  />
+<img align="right" height="150" src="https://i.gifer.com/o6m.gif" />
 
 ###
 
@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
